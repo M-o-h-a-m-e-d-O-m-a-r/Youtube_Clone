@@ -1,0 +1,10 @@
+@media screen and (max-width: 666px) {
+  .desktop-only {
+    display: none;
+  }
+
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+}
